@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://count.getloli.com/@:SrijithLegend?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
-</div>
+<h1 align="center">I Win. It's what I do 💪</h1>
 
 ###
 
-<h1 align="center">I Win. It's what I do 💪</h1>
+<div align="center">
+  <img src="https://count.getloli.com/@:SrijithLegend?theme=booru-helltaker&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
+</div>
 
 ###
 

@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&text=---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=101317"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&text=-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=101317"  />
 </div>
 
 ###
@@ -11,7 +11,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&text=---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=101317"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&text=-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=20&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=101317"  />
 </div>
 
 ###
@@ -71,7 +71,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&text=---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=101317"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=1&section=footer&reversal=false&text=-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------&fontSize=10&fontColor=FFFFFF&fontAlign=50&fontAlignY=80&rotate=0&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=101317"  />
 </div>
 
 ###

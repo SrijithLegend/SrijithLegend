@@ -1,4 +1,4 @@
-<h1 align="center">I Win, It's What I Do</h1>
+<h1 align="center">I Win. It's what I do</h1>
 
 ###
 

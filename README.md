@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SrijithLegend.SrijithLegend&"  />
+  <img src="https://count.getloli.com/@:SrijithLegend?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###

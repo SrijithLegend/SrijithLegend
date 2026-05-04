@@ -1,4 +1,16 @@
-<h1 align="center">I Win. It's what I do</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SrijithLegend.SrijithLegend&"  />
+</div>
+
+###
+
+<h1 align="center">I Win. It's what I do 💪</h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/cxP23QVNAigAAAAM/jarvis.gif"  />
+</div>
 
 ###
 
